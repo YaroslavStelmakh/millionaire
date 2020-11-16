@@ -5,7 +5,7 @@
 1-st steps steps to running a project on your machine
 1. `You should clone repository`
 
-2. ### `cd millioner`
+2. ### `cd millionaire`
 
 3. ### `npm install`
 
