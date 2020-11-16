@@ -3,7 +3,7 @@
 ### https://yaroslavstelmakh.github.io/millioner/
 
 1-st steps steps to running a project on your machine
-1. ### `You should clone repository`
+1. `You should clone repository`
 
 2. ### `cd millioner`
 
