@@ -1,6 +1,6 @@
  You can view the site from a browser on this hosting at this link:
 
-### https://yaroslavstelmakh.github.io/millioner/
+### https://yaroslavstelmakh.github.io/millioner-game/
 
 1-st steps steps to running a project on your machine
 1. `You should clone repository`
