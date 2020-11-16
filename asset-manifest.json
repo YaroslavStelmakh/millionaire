@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/millionaire/static/css/main.06a3fdfe.chunk.css",
+    "main.js": "/millionaire/static/js/main.41b1319b.chunk.js",
+    "main.js.map": "/millionaire/static/js/main.41b1319b.chunk.js.map",
+    "runtime-main.js": "/millionaire/static/js/runtime-main.82a71300.js",
+    "runtime-main.js.map": "/millionaire/static/js/runtime-main.82a71300.js.map",
+    "static/js/2.fea7235b.chunk.js": "/millionaire/static/js/2.fea7235b.chunk.js",
+    "static/js/2.fea7235b.chunk.js.map": "/millionaire/static/js/2.fea7235b.chunk.js.map",
+    "index.html": "/millionaire/index.html",
+    "static/css/main.06a3fdfe.chunk.css.map": "/millionaire/static/css/main.06a3fdfe.chunk.css.map",
+    "static/js/2.fea7235b.chunk.js.LICENSE.txt": "/millionaire/static/js/2.fea7235b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/millionaire/static/media/Union.4cc3cba4.svg",
+    "static/media/hand 1.db4d6f4e.png": "/millionaire/static/media/hand 1.db4d6f4e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82a71300.js",
+    "static/js/2.fea7235b.chunk.js",
+    "static/css/main.06a3fdfe.chunk.css",
+    "static/js/main.41b1319b.chunk.js"
+  ]
+}
