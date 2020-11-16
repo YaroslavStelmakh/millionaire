@@ -1,6 +1,6 @@
 # You can view the site from a browser on this hosting at this link:
 
-###
+### https://yaroslavstelmakh.github.io/millioner/
 
 # 1-st steps
 1.You should clone repository
